@@ -21,3 +21,10 @@
 git clone https://github.com/moekyawaung-creator/ECommercePro.git
 cd ECommercePro
 ./gradlew build
+## 📱 Screenshots
+| Home | Products | Cart | Profile |
+|------|----------|------|---------|
+| ![Home](screenshots/ecommerce-1.png) | ![Products](screenshots/ecommerce-2.png) | ![Cart](screenshots/ecommerce-3.png) | ![Profile](screenshots/ecommerce-4.png) |
+
+![Demo GIF](screenshote/ecommerce-demo.gif
+)
